@@ -1,0 +1,10 @@
+print(""); print("Alan Steven Martinez Fernandez: 0795"); print("")
+print("coloca 2 valores para seber cual es el meor y sumarlos");print("")#da instrucciones y separa
+a=int(input("coloca el primer valor "))#define como int y da la instruccion de cuando poner el valor
+b=int(input("coloca el primer valor "))#define como int y da la instruccion de cuando poner el valor
+if a<b:
+    print(a,(" es menor"));print("")#separa y dice que a es menor
+else:
+    print(a,(" es menor"));print("")#separa y dice que a es menor
+print("la suma de los 2 valores es ",a+b);print("")#separa realiz y imprime la operacion e imprime una instruccion
+![image](https://github.com/user-attachments/assets/f7b11dee-4b36-4929-8d42-a6b2e854a28b)
